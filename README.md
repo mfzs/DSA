@@ -4,6 +4,7 @@ This repository is dedicated to learning and practicing Data Structures and Algo
 
 ## Structure
 
+- `fundamentals/` — Foundational Python and DSA concepts (syntax, complexity, recursion, problem-solving basics)
 - `algorithms/` — Implementations and explanations of common algorithms (sorting, searching, recursion, etc.)
 - `data_structures/` — Implementations and explanations of fundamental data structures (arrays, linked lists, stacks, queues, trees, graphs, etc.)
 - `problems/` — Practice problems and solutions categorized by topic and difficulty
@@ -23,4 +24,4 @@ This repository is dedicated to learning and practicing Data Structures and Algo
 
 ## Contribution
 
-Feel free to contribute by adding new algorithms, data structures, or problems! 
+Feel free to contribute by adding new algorithms, data structures, problems, or fundamental concepts! 
