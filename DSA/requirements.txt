@@ -1,0 +1,2 @@
+# Basic requirements for DSA learning in Python
+jupyter 
